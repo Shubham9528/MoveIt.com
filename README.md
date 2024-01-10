@@ -1,2 +1,2 @@
 # MoveIt.com
-MoveIt website using bootstrap
+MoveIt website using bootstrap html and css
